@@ -56,7 +56,7 @@ pytest tests/
 
 ## 🛠️ Backend (FastAPI)
 
-![Backend](images/backend.png)
+![Backend](images/backend.PNG)
 
 - Handles summarization requests by talking to the LLaMA model via LangChain and Ollama.
 - Runs on [http://localhost:8000](http://localhost:8000)
@@ -66,7 +66,7 @@ pytest tests/
 
 ## 🎨 Frontend (Streamlit)
 
-![Frontend](images/frontend.png)
+![Frontend](images/frontend.PNG)
 
 - User-friendly interface for entering text and viewing summaries.
 - Runs on [http://localhost:8501](http://localhost:8501)
