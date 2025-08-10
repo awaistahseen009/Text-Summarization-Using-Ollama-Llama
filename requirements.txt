@@ -7,4 +7,6 @@ pytest
 pytest-mock
 requests-mock
 langchain
+langchain-community
+langchain-ollama
 ollama 

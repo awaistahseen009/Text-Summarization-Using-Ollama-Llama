@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Form
-from langchain_community.chat_models import ChatOllama
+from langchain_ollama import ChatOllama
 from langchain_core.messages import SystemMessage, HumanMessage
 
 app = FastAPI()
